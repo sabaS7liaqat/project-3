@@ -3,7 +3,7 @@ import Field from '../field/Field'
 
 export default function ContactSection() {
   return (
-    <div className='bg-[rgb(8,28,41)] h-screen w-screen text-center space-y-[62px] '>
+    <div className='bg-[rgb(8,28,41)] h-screen w-screen text-center space-y-24 '>
       <div className='space-y-2'>
         <div className='text-4xl font-semibold py-12 '>
             <h1 className='text-white'>Contact <span className='text-blue-500'>Me!</span></h1>
