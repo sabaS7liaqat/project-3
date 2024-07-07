@@ -11,7 +11,7 @@ const links  =[
 function NavbarII() {
   return (
    <nav className='flex px-24  gap-8 items-center bg-[rgb(8,28,41)] w-screen'>
-    <h1 className='text-white '>SabaS7.</h1>
+    <h1 className='text-white '>SabaS7Liaqat.</h1>
     <div className="h-12 flex gap-5  w-screen text-white justify-end items-center" >
     {links.map ((links, index) =>{
         return (

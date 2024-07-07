@@ -13,7 +13,7 @@ export default function HeroSection() {
     <div className=' w-[55%] flex flex-col justify-center gap-24 pt-32'>
       <div className=''>
       <div className=' flex flex-col justify-center'>
-        <h1 className='text-6xl text-white font-bold'>Hi, I'm Saba Liaqat</h1>
+        <h1 className='text-6xl text-white font-bold'>Hi, I'm Saba Shahzadi</h1>
         <h2 className='text-blue-500 text-4xl pt-3 font-bold' >Frontend Developer<span className='font-normal'>|</span></h2>
         <p className='text-white py-7'>An aspiring web developer with a passion for creating dynamic and user-friendly websites. I believe that combining functionality and good design is key to creating amazing websites and every step you take is a valuable part of your unique path towards self-discovery and personal growth,Stay curious, be open to new possibilities, and embrace the learning opportunities that come your way as you progress on your journey so come along with me as I explore the world of web development and strive to be creative and innovative with every line of code I write.</p>
         
